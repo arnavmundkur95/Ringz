@@ -1,5 +1,5 @@
 # Ringz
-Implementation of the board game Ringz. This project was done together with Paulius Gagelas (@PauliusGagelas) for the Software Systems module of the Bachelor Computer Science at the University of Twente.
+Implementation of the board game Ringz. This project was done together with [Paulius Gagelas](https://github.com/PauliusGagelas) for the Software Systems module of the Bachelor Computer Science at the University of Twente.
 
 ## Features
 - MVC architecture
